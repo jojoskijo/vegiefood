@@ -87,7 +87,7 @@ font-size: 8/16 = 0.5 * 100 = 50% */
 
 @media (max-width: 68em) {
   html {
-/*     font-size: 50%; */
+    font-size: 56.25%;
   }
 
   .hero-box {
